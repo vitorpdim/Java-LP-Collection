@@ -1,12 +1,12 @@
 # Java-Classes-Colecction
 
- **Repositório de estudos sobre a linguagem Java com foco em variáveis, operadores e estruturas básicas.**
+ **Repositório de estudos sobre a linguagem Java **
 
-Este repositório contém anotações, exercícios e testes desenvolvidos a partir da **Apostila de Linguagem de Programação Java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado prático das aulas.
+Esse repositório contém anotações, exercícios e testes desenvolvidos a partir da **Apostila de Linguagem de Programação Java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado das aulas
 
 ---
 
-## 🔍 Conteúdo abordado
+##  Conteúdo abordado
 
 Este projeto explora os seguintes tópicos da linguagem Java:
 
@@ -63,11 +63,11 @@ Java-Classes-Colecction/
 
 ## 🎯 Objetivo
 
-Este repositório tem como finalidade:
+Esse repositório tem como finalidade:
 
-* Consolidar o conhecimento adquirido nas aulas do professor Cristovão (Linguagem de Programação).
+* Consolidar o conhecimento adquirido nas aulas de linguagem de programação do segundo semestre (2025)
 * Servir como referência para revisão futura.
-* Compartilhar exemplos práticos e erros comuns em Javpara iniciantes.
+* Compartilhar exemplos práticos e erros comuns em Java para iniciantes.
 
 ---
 
@@ -90,6 +90,6 @@ Apostila base utilizada para os estudos:
 
 ## Contribuição
 
-Este repositório é voltado para fins acadêmicos, mas contribuições são bem-vindas! Sinta-se livre para abrir issues ou sugerir melhorias
+Este repositório é voltado para fins acadêmicos
 
 ---
