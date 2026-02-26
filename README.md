@@ -1,4 +1,4 @@
-# Java-LP-Colecction
+# Java-LP-Collection
 
  **Repositório de estudos sobre a linguagem Java na matéria linguagem de programação (2 semestre 2025) **
 
@@ -91,5 +91,7 @@ Apostila base utilizada para os estudos:
 ## Contribuição
 
 Este repositório é voltado para fins acadêmicos
+
+Obrigado professor Cristóvão ❤️
 
 ---
