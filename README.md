@@ -1,6 +1,6 @@
-# Java-Classes-Colecction
+# Java-LP-Colecction
 
- **Repositório de estudos sobre a linguagem Java **
+ **Repositório de estudos sobre a linguagem Java na matéria linguagem de programação (2 semestre 2025) **
 
 Esse repositório contém anotações, exercícios e testes desenvolvidos a partir da **Apostila de Linguagem de Programação Java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado das aulas
 
@@ -8,7 +8,7 @@ Esse repositório contém anotações, exercícios e testes desenvolvidos a part
 
 ##  Conteúdo abordado
 
-Este projeto explora os seguintes tópicos da linguagem Java:
+Esse projeto explora os seguintes tópicos da linguagem Java:
 
 ###  Definições Iniciais
 
@@ -66,7 +66,7 @@ Java-Classes-Colecction/
 Esse repositório tem como finalidade:
 
 * Consolidar o conhecimento adquirido nas aulas de linguagem de programação do segundo semestre (2025)
-* Servir como referência para revisão futura.
+* Servir como referência para revisão futura, e relembrar da época de facul.
 * Compartilhar exemplos práticos e erros comuns em Java para iniciantes.
 
 ---
