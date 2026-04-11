@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Ex08Lista7 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String frase = "";
+        int contador = 0;
+
+        System.out.print("Entr com uma frase: ");
+        frase = sc.nextLine();
+
+        frase = frase.toLowerCase();
+
+        for (char letra = 'a'; letra <= 'z'; letra++) {
+            contador = 0;
+            for (int i = 0; i < frase.length(); i++) {
+                if (frase.charAt(i) == letra) {
+                    contador++;
+                }
+            }
+            if (contador > 0) {
+                System.out.println("\'" + letra + "\': " + contador);
+            }
+        }
+
+    }
+}
+// -- Victor Hugo dos Santos --
