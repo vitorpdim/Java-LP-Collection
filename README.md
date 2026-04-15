@@ -2,7 +2,7 @@
 
  **Repositório de estudos sobre a linguagem Java na matéria linguagem de programação (2 semestre 2025) **
 
-Esse repositório contém anotações, exercícios e testes desenvolvidos a partir da **Apostila de Linguagem de Programação Java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado das aulas
+Esse repositório contém anotações, exercícios e testes desenvolvidos a partir da **apostila de Linguagem de Programação java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado das aulas, juntamente com resoluções de exercicios
 
 ---
 
@@ -10,7 +10,7 @@ Esse repositório contém anotações, exercícios e testes desenvolvidos a part
 
 Esse projeto explora os seguintes tópicos da linguagem Java:
 
-###  Definições Iniciais
+###  Definições iniciais
 
 * Estrutura básica de um programa Java
 * Tipos primitivos:
@@ -30,44 +30,54 @@ Esse projeto explora os seguintes tópicos da linguagem Java:
 * Unários (`+`, `-`, `++`, `--`, `!`, `~`)
 * Atribuição
 * Relacionais
+* Manipulação de strings
 * Lógicos
 * Cast (conversão de tipos)
 * Operadores de escape em `char` e `String` (`\n`, `\t`, etc.)
 
-###  Exercícios Práticos
+###  Exercícios práticos
 
 * Declaração e inicialização de variáveis
 * Escopo de variáveis
 * Uso correto de operadores
 * Exemplos que simulam erros comuns de compilação
-* Correção e análise de trechos de código
-
+* Resolução de exercicios das listas
 ---
 
-## 📂 Organização do Repositório
+## 📂 Organização do repositório
 
 Os arquivos estão organizados por tópicos e seguem uma estrutura didática com os nomes das classes
 
 ```
-Java-Classes-Colecction/
+Java-LP-Colecction/
 ├── src/
+│   ├── Array/
 │   ├── DeclaracaoVariaveis/
-│   ├── TestaOperador/
-│   ├── TestaVariaveis/
-│   └── escopo/
+│   ├── EstruturaCondicional/
+│   └── Estruturas-Codigos/
+├── LISTAS/
+│   ├── Exercicios Lista 1/
+│   ├── Exercicios Lista 2/
+│   ├── Exercicios Lista 3/
+│   ├── Exercicios Lista 4/
+│   ├── Exercicios Lista 5/
+│   ├── Exercicios Lista 6/
+│   ├── Exercicios Lista 7/
+│   └── Exercicios Lista 8/
 ├── README.md
 └── ...
 ```
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Esse repositório tem como finalidade:
 
-* Consolidar o conhecimento adquirido nas aulas de linguagem de programação do segundo semestre (2025)
-* Servir como referência para revisão futura, e relembrar da época de facul.
-* Compartilhar exemplos práticos e erros comuns em Java para iniciantes.
+* Consolidar o conhecimento adquirido nas aulas de linguagem de programação
+* Servir como referência para revisão futura, e relembrar da época de facul
+* Compartilhar exemplos práticos e erros comuns em java
+* Treinar resolução de exercícios
 
 ---
 
@@ -76,14 +86,14 @@ Esse repositório tem como finalidade:
 Apostila base utilizada para os estudos:
 
 **FATEC - ADS - Linguagem de programação **
-📎 [Link para o (Dropbox do professor)](https://www.dropbox.com/scl/fo/sh3sm6wcoqfq1xwz0bd99/AOLz-hMDllkIuiE7NudZLSg?dl=0&rlkey=r2z0ira7iwpdfg76zha0f5kez)
+📎 [Link para o (dropbox do professor)](https://www.dropbox.com/scl/fo/sh3sm6wcoqfq1xwz0bd99/AOLz-hMDllkIuiE7NudZLSg?dl=0&rlkey=r2z0ira7iwpdfg76zha0f5kez)
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 * Java SDK 8 ou superior
-* IDE de sua preferência (ex: IntelliJ, Eclipse, VS Code)
+* IDE de sua preferência
 * Conhecimentos básicos de programação
 
 ---
@@ -91,7 +101,6 @@ Apostila base utilizada para os estudos:
 ## Contribuição
 
 Este repositório é voltado para fins acadêmicos
-
-Obrigado professor Cristóvão ❤️
+Obrigado professor Cristóvão
 
 ---
