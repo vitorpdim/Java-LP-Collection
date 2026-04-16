@@ -41,7 +41,7 @@ Esse projeto explora os seguintes tópicos da linguagem Java:
 * Escopo de variáveis
 * Uso correto de operadores
 * Exemplos que simulam erros comuns de compilação
-* Resolução de exercicios das listas
+* Resolução de exercicios das listas 1 a 8
 ---
 
 ## 📂 Organização do repositório
